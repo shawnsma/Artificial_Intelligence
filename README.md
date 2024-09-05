@@ -1,7 +1,5 @@
 # Artificial_Intelligence
 
-# Pacman AI Project
-
 This repository contains a collection of Python scripts implementing various AI algorithms for the classic Pacman game. The project is designed to explore and demonstrate different AI techniques in a fun and interactive environment.
 
 ## Files in the Repository
